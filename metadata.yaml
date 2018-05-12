@@ -1,0 +1,31 @@
+_repo: The-Science-and-Philosophy-of-the-Organism_44388
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Driesch, Hans
+    alias: Driesch, Hans Adolf Eduard
+    birthdate: 1867
+    deathdate: 1941
+    gutenberg_agent_id: '42723'
+    url: http://www.gutenberg.org/2009/agents/42723
+    wikipedia: http://en.wikipedia.org/wiki/Hans_Driesch
+description: ''
+gutenberg_issued: '2013-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44388'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Gifford lectures, 1907
+subjects:
+- !lcsh 'Biology -- Philosophy'
+- !lcc 'B'
+- !lcsh 'Organism (Philosophy)'
+- !lcsh 'Science -- Philosophy'
+title: The Science and Philosophy of the Organism
+url: http://www.gutenberg.org/ebooks/44388
